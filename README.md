@@ -1,3 +1,6 @@
+![gitii](https://github.com/talha0804/talha0804/assets/168374699/2562384d-a316-466f-a81a-f71bd69907cf)
+
+
 - 👋 Hi, I’m @talha0804 Muhammad Talha.
 - 👀 I’m interested in Coding 😋😍😎😘
 - 🌱 I’m currently learning C++,C,python,HTML,CSS,JavaScript etc.🧑👨(❁´◡`❁)😎😎😋
@@ -8,10 +11,8 @@
 - GitHub:https://github.com/talha0804/C-Codes.git
 - CodeForces:https://codeforces.com/register/confirm/687d13695bec50bd64e17ad6f12312cfe0d88c9a😍😘❤🤞😜
 - 😄 Pronouns: He/Him or Mr.Muhammad Talha
-- ⚡ Fun fact: Making Jokes like a child , Still Immature, Friendly,Always Happy and wants to see Happy,Tea Addict,Coding✌👌😎
-
-<!---
-About Me 👨‍💻
+- ⚡ Fun fact: Making Jokes like a child , Still Immature, Friendly,Always Happy and wants to see others Happy,Tea Addict,Coding✌👌😎
+**About Me 👨‍💻**
 Hello! I'm a passionate Software Engineer who thrives on the excitement of solving complex problems with elegant code. With a strong foundation in C, C++, Python, JavaScript, HTML, and CSS, I am always eager to learn new technologies and take on new challenges.
 
 💡 Innovative Problem Solver: I love turning ideas into reality and finding creative solutions to challenging issues.
@@ -26,5 +27,3 @@ Hello! I'm a passionate Software Engineer who thrives on the excitement of solvi
 
 🎯 Focus on Quality: Clean, maintainable code is my mantra. I adhere to best practices and strive for excellence in every project.
 
-
---->
