@@ -1,4 +1,5 @@
-![gitii](https://github.com/talha0804/talha0804/assets/168374699/2562384d-a316-466f-a81a-f71bd69907cf)
+![gitii](https://github.com/talha0804/talha0804/assets/168374699/2562384d-a316-466f-a81a-f71bd69907cf) ![Uploading gitii.jpeg…]()
+
 
 
 - 👋 Hi, I’m @talha0804 Muhammad Talha.
