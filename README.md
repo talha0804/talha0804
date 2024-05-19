@@ -1,8 +1,5 @@
-img[src="![gitii](https://github.com/talha0804/talha0804/assets/168374699/b52423a9-6099-443e-98de-68495cbfb104)
-"] {
-    width: 500px;
-    height: 500px;
-}
+![gitii](https://github.com/talha0804/talha0804/assets/168374699/b52423a9-6099-443e-98de-68495cbfb104)
+
 
 
 
