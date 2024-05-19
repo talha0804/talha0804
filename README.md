@@ -1,4 +1,6 @@
-![gitii](https://github.com/talha0804/talha0804/assets/168374699/b52423a9-6099-443e-98de-68495cbfb104)
+![gitii](https://github.com/talha0804/talha0804/assets/168374699/b52423a9-6099-443e-98de-68495cbfb104)     ![Uploading My pick2.jpg…]()
+
+
 
 
 
