@@ -4,7 +4,6 @@
 - 👋 Hi, I’m @talha0804 Muhammad Talha.
 - 👀 I’m interested in Coding 😋😍😎😘
 - 🌱 I’m currently learning C++,C,python,HTML,CSS,JavaScript etc.🧑👨(❁´◡`❁)😎😎😋
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mtalha0804@gmail.com,bsef23m523@pucit.edu.pk instrgram: https://www.instagram.com/itx.talha_0804?igsh=MTRjM3RncXR5aHZxZQ==
 - FaceBook:https://www.facebook.com/profile.php?id=100089827437033
 - Linkedin:https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B9DtUqOCMTlOfzjwlT8y8Fw%3D%3D
